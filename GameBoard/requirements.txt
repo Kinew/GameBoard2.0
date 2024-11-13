@@ -1,4 +1,4 @@
-APScheduler        3.10.4
+APScheduler        3.10.3
 asgiref            3.8.1
 auth               0.5.3
 blinker            1.8.2

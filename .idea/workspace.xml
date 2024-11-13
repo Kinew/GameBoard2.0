@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c2d380f-badf-41dd-bd05-5b8c371cecbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GameBoard2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0c2d380f-badf-41dd-bd05-5b8c371cecbf" name="Changes" comment="create new project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameBoard/GameBoard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameBoard/GameBoard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameBoard/board/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameBoard/board/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameBoard/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GameBoard/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730917624277</updated>
     </task>
+    <task id="LOCAL-00001" summary="create new project">
+      <option name="closed" value="true" />
+      <created>1730926338021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730926338022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new project" />
   </component>
 </project>
